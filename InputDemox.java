@@ -4,6 +4,7 @@ class InputDemox
 {
     public static void main(String Arg[])
     {
+        // user input by using bufferedReader
         BufferedReader bobj = new BufferedReader(new InputStreamReader(System.in));
 
         int No1 = 0, No2 = 0;
