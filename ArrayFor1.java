@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;  // use java.util package 
 
 class ArrayFor1
 {
