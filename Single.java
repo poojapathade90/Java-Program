@@ -14,7 +14,7 @@ class Base
     }
 }
 // class Derived : public Base
-class Derived extends Base 
+class Derived extends Base // Chiled class creation
 {
     public int X ;       // characteristic
     public int Y ;
